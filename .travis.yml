@@ -2,8 +2,8 @@ sudo: required
 language: bash
 env:
   global:
-  - USER="hemanth22"
-  - EMAIL="hemanth22hemu@mail.com"
+#  - USER="hemanth22"
+#  - EMAIL="hemanth22hemu@mail.com"
   - REPO="Pre-Release_hemanthindexpage"
   - GH_REPO="github.com/${USER}/${REPO}.git"
 
