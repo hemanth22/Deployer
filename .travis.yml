@@ -38,7 +38,7 @@ script:
  - echo "Listing Output after above script"
  - ls -la
  - cd Pre-Release_hemanthindexpage
- - echo "Prebeta Project Test Link : https://hemanth22.github.io/Pre-Release_hemanthindexpage/" >> README.txt
+ - echo "Prebeta Project Test Link : https://hemanth22.github.io/Pre-Release_hemanthindexpage/" >> README.md
  - git remote
  - git config user.email ${EMAIL}
  - git config user.name ${USER}
